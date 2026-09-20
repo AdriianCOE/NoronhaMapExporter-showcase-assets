@@ -1,0 +1,67 @@
+{
+  "format": "NoronhaMapExporter static map package v1",
+  "layers": [
+    {
+      "id": "tourist",
+      "name": "Tourist",
+      "sourceSha256": "e57ba364f4fccd3aa5ebc9304f383640c761c462a2e55f7974c0e5c3e5b7b20a",
+      "revision": "e57ba364f4fc",
+      "sourceWidth": 9600,
+      "sourceHeight": 9600,
+      "width": 9600,
+      "height": 9600,
+      "tileSize": 512,
+      "format": "webp",
+      "maxZoom": 5,
+      "tiles": 500,
+      "initialBounds": [
+        100,
+        0,
+        9500,
+        7000
+      ]
+    },
+    {
+      "id": "clean",
+      "name": "Clean",
+      "sourceSha256": "b2ad5998fe0fc04b5262bf61cf0b4269f6caa4d3a3b1a1cf61229a2243c25e1f",
+      "revision": "b2ad5998fe0f",
+      "sourceWidth": 9600,
+      "sourceHeight": 9600,
+      "width": 9600,
+      "height": 9600,
+      "tileSize": 512,
+      "format": "webp",
+      "maxZoom": 5,
+      "tiles": 500,
+      "initialBounds": [
+        100,
+        0,
+        9500,
+        7000
+      ]
+    },
+    {
+      "id": "satmap",
+      "name": "SatMap",
+      "sourceSha256": "1d2d37109db1a6bfc825d1126fab2f077cc93a5f5ea9e6e8bd0e54dffccb8107",
+      "revision": "1d2d37109db1",
+      "sourceWidth": 10240,
+      "sourceHeight": 10240,
+      "width": 9600,
+      "height": 9600,
+      "tileSize": 512,
+      "format": "webp",
+      "maxZoom": 5,
+      "tiles": 500,
+      "initialBounds": [
+        100,
+        0,
+        9500,
+        7000
+      ]
+    }
+  ],
+  "totalTiles": 1500,
+  "tileAssetBytes": 56134170
+}
