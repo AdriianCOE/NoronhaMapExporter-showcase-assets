@@ -2,7 +2,8 @@ window.NORONHA_MAP = {
   "githubUrl": "https://github.com/AdriianCOE/NoronhaMapExporter",
   "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894",
   "defaultLayer": "tourist",
-  "cloudsEnabled": true,
+  "viewerVersion": "v1.0.0-rc.2",
+  "cloudsEnabled": false,
   "layers": [
     {
       "id": "tourist",
