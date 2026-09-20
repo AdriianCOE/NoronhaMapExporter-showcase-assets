@@ -3,7 +3,7 @@ window.NORONHA_MAP = {
   "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894",
   "defaultLayer": "tourist",
   "viewerVersion": "v1.0.0-rc.2",
-  "cloudsEnabled": false,
+  "cloudsEnabled": true,
   "layers": [
     {
       "id": "tourist",
