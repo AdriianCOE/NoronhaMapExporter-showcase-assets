@@ -44,10 +44,10 @@
     {
       "id": "satmap",
       "name": "SatMap",
-      "sourceSha256": "2e3e63b892b36b0c245487ef5dfbc70539a171b159be18b994bd37782f17d2b9",
-      "revision": "2e3e63b892b3",
-      "sourceWidth": 10240,
-      "sourceHeight": 10240,
+      "sourceSha256": "eb62d7f405830ad907f76e8571f34df0703066d2ec277290654de700ec1eee1e",
+      "revision": "eb62d7f40583",
+      "sourceWidth": 9600,
+      "sourceHeight": 9600,
       "width": 9600,
       "height": 9600,
       "tileSize": 512,
@@ -63,5 +63,5 @@
     }
   ],
   "totalTiles": 1500,
-  "tileAssetBytes": 55982002
+  "tileAssetBytes": 33698858
 }

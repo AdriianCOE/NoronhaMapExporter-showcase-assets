@@ -44,9 +44,9 @@ window.NORONHA_MAP = {
     {
       "id": "satmap",
       "name": "SatMap",
-      "revision": "2e3e63b892b3",
-      "sourceWidth": 10240,
-      "sourceHeight": 10240,
+      "revision": "eb62d7f40583",
+      "sourceWidth": 9600,
+      "sourceHeight": 9600,
       "width": 9600,
       "height": 9600,
       "tileSize": 512,
