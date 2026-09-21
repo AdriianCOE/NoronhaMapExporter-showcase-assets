@@ -1,14 +1,14 @@
 window.NORONHA_MAP = {
   "githubUrl": "https://github.com/AdriianCOE/NoronhaMapExporter",
   "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894",
+  "viewerVersion": "v1.0.0",
   "defaultLayer": "tourist",
-  "viewerVersion": "v1.0.0-rc.2",
   "cloudsEnabled": true,
   "layers": [
     {
       "id": "tourist",
       "name": "Tourist",
-      "revision": "e57ba364f4fc",
+      "revision": "f145702655de",
       "sourceWidth": 9600,
       "sourceHeight": 9600,
       "width": 9600,
@@ -26,7 +26,7 @@ window.NORONHA_MAP = {
     {
       "id": "clean",
       "name": "Clean",
-      "revision": "b2ad5998fe0f",
+      "revision": "1d79585d5fc2",
       "sourceWidth": 9600,
       "sourceHeight": 9600,
       "width": 9600,
@@ -44,7 +44,7 @@ window.NORONHA_MAP = {
     {
       "id": "satmap",
       "name": "SatMap",
-      "revision": "1d2d37109db1",
+      "revision": "2e3e63b892b3",
       "sourceWidth": 10240,
       "sourceHeight": 10240,
       "width": 9600,

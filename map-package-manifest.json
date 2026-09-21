@@ -4,8 +4,8 @@
     {
       "id": "tourist",
       "name": "Tourist",
-      "sourceSha256": "e57ba364f4fccd3aa5ebc9304f383640c761c462a2e55f7974c0e5c3e5b7b20a",
-      "revision": "e57ba364f4fc",
+      "sourceSha256": "f145702655de44e95e9e0b511fa145cd537a8dce2618ec7806c5e2b7788b6912",
+      "revision": "f145702655de",
       "sourceWidth": 9600,
       "sourceHeight": 9600,
       "width": 9600,
@@ -24,8 +24,8 @@
     {
       "id": "clean",
       "name": "Clean",
-      "sourceSha256": "b2ad5998fe0fc04b5262bf61cf0b4269f6caa4d3a3b1a1cf61229a2243c25e1f",
-      "revision": "b2ad5998fe0f",
+      "sourceSha256": "1d79585d5fc25607ee706d58c7c1283d80a65a0d374750ac13ba336ff45303f2",
+      "revision": "1d79585d5fc2",
       "sourceWidth": 9600,
       "sourceHeight": 9600,
       "width": 9600,
@@ -44,8 +44,8 @@
     {
       "id": "satmap",
       "name": "SatMap",
-      "sourceSha256": "1d2d37109db1a6bfc825d1126fab2f077cc93a5f5ea9e6e8bd0e54dffccb8107",
-      "revision": "1d2d37109db1",
+      "sourceSha256": "2e3e63b892b36b0c245487ef5dfbc70539a171b159be18b994bd37782f17d2b9",
+      "revision": "2e3e63b892b3",
       "sourceWidth": 10240,
       "sourceHeight": 10240,
       "width": 9600,
@@ -63,5 +63,5 @@
     }
   ],
   "totalTiles": 1500,
-  "tileAssetBytes": 56134170
+  "tileAssetBytes": 55982002
 }
